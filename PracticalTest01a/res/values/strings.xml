@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest01a</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigate">Navigate to Secondary Activity</string>
+    <string name="text"></string>
+    <string name="top_left">Top Left</string>
+    <string name="top_right">Top Right</string>
+    <string name="bottom_left">Bottom Left</string>
+    <string name="bottom_right">Bottom Right</string>
+    <string name="center">Center</string>
+    <string name="title_activity_practical_test01_secondary">PracticalTest01SecondaryActivity</string>
+	<string name="sumText"></string>
+    
+</resources>
